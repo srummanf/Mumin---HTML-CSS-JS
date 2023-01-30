@@ -1,17 +1,3 @@
-// let json = {
-//     "Key 1": "Value 1",
-//     "Key 2": "Value 2",
-//     "Key 3": "Value 3"
-// };
-
-// let keys = Object.keys(json);
-// let randomKey = keys[Math.floor(Math.random() * keys.length)];
-
-// document.getElementById("hadith").innerHTML = `<p>${json[randomKey]}</p>`;
-// document.getElementById("hadith2").innerHTML = `<p>${json[randomKey]}</p>`;
-
-
-
 let json = {
     "Key 1": {
         "Subkey 1": "Subvalue 1",
