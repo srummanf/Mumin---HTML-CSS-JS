@@ -34,4 +34,5 @@ let keys = Object.keys(json);
 let randomKey = keys[Math.floor(Math.random() * keys.length)];
 let randomSubkey = Object.keys(json[randomKey])[Math.floor(Math.random() * Object.keys(json[randomKey]).length)];
 
-document.getElementById("hadith").innerHTML = `<p>${randomKey}: ${randomSubkey}: ${json[randomKey][randomSubkey]}</p>`;
+document.getElementById("hadith").innerHTML = `<p>${randomKey}: ${randomSubkey}:</p>`;
+document.getElementById("hadithref").innerHTML = `<p>${json[randomKey][randomSubkey]}</p>`;
