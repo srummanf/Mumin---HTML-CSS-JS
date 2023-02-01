@@ -35,7 +35,10 @@ let ayah = {
     "Al Baqarah":{
         "21":`O mankind, worship your Lord, who created you and those before you, that you may become righteous `
     },
-    "":{},
+    "Ad Duha":{
+        "4": `Indeed what is to come will be better for you than what has gone by.`,
+        "7": `And He found you lost and guided [you],`
+    },
     "":{},
 }
 
