@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:300,400,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic);
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Poppins:wght@200;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@1,400;1,500&family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Poppins:wght@200;300;400;500&display=swap');
+
 
 /* Override UGG site */
 #main {
@@ -55,7 +57,9 @@
 
 #parallax-world-of-ugg .text {
     font-family: 'IBM Plex Sans', sans-serif;
-    font-weight: 400;
+    /* font-family: 'Cormorant', serif; */
+    font-weight: 300;
+    font-style: italic;
     font-size: 1.2rem;
     line-height: 1.875rem;
 }
@@ -207,7 +211,7 @@
         width: 290px;
     }
 
-    #parallax-world-of-ugg .title h3{
+    #parallax-world-of-ugg .title h3 {
         font-size: 10px;
         line-height: 0;
         font-weight: 400;
