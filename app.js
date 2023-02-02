@@ -59,20 +59,20 @@ let dua = {
 let keys = Object.keys(hadith);
 let randomKey = keys[Math.floor(Math.random() * keys.length)];
 let randomSubkey = Object.keys(hadith[randomKey])[Math.floor(Math.random() * Object.keys(hadith[randomKey]).length)];
-document.getElementById("hadith").innerHTML = `<p p > ${randomKey}: ${randomSubkey}:</p> `;
-document.getElementById("hadithref").innerHTML = `<p p > ${hadith[randomKey][randomSubkey]}</p > `;
+document.getElementById("hadith").innerHTML = `<p> ${randomKey}  ${randomSubkey} </p> `;
+document.getElementById("hadithref").innerHTML = `<p> ${hadith[randomKey][randomSubkey]}</p > `;
 
 
 
 let keys2 = Object.keys(ayah);
 let randomKey2 = keys2[Math.floor(Math.random() * keys2.length)];
 let randomSubkey2 = Object.keys(ayah[randomKey2])[Math.floor(Math.random() * Object.keys(ayah[randomKey2]).length)];
-document.getElementById("ayah").innerHTML = `<p p > ${randomKey2}: ${randomSubkey2}:</p > `;
-document.getElementById("ayahref").innerHTML = `<p p > ${ayah[randomKey2][randomSubkey2]}</p > `;
+document.getElementById("ayah").innerHTML = `<p> Surah ${randomKey2}, Verse ${randomSubkey2}</p > `;
+document.getElementById("ayahref").innerHTML = `<p> ${ayah[randomKey2][randomSubkey2]}</p > `;
 
 
 let keys3 = Object.keys(dua);
 let randomKey3 = keys3[Math.floor(Math.random() * keys3.length)];
 let randomSubkey3 = Object.keys(dua[randomKey3])[Math.floor(Math.random() * Object.keys(dua[randomKey3]).length)];
-document.getElementById("dua").innerHTML = `<p p > ${randomKey3}: ${randomSubkey3}:</p > `;
-document.getElementById("duaref").innerHTML = `<p p > ${dua[randomKey3][randomSubkey3]}</p > `;
+document.getElementById("dua").innerHTML = `<p> ${randomKey3} ${randomSubkey3}</p > `;
+document.getElementById("duaref").innerHTML = `<p> ${dua[randomKey3][randomSubkey3]}</p > `;
