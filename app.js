@@ -38,7 +38,8 @@ let ayah = {
         "4": `Do not grieve; indeed Allāh is with us.`,
     },
     "Al Kafh": {
-        "18":`It is We who relate to you, [O Muḥammad], their story in truth. Indeed, they were youths who believed in their Lord, and We increased them in guidance.`
+        "18": `It is We who relate to you, [O Muḥammad], their story in truth. Indeed, they were youths who believed in their Lord, and We increased them in guidance.`,
+        "23, 24": `And never say of anything, "Indeed, I will do that tomorrow". Except [when adding], "If Allāh wills." And remember your Lord when you forget [it] and say, "Perhaps my Lord will guide me to what is nearer than this to right conduct."`
     }
 }
 
