@@ -37,6 +37,9 @@ let ayah = {
     "At Taubah": {
         "4": `Do not grieve; indeed Allāh is with us.`,
     },
+    "Al Kafh": {
+        "18":`It is We who relate to you, [O Muḥammad], their story in truth. Indeed, they were youths who believed in their Lord, and We increased them in guidance.`
+    }
 }
 
 let dua = {
