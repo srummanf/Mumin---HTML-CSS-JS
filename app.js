@@ -40,6 +40,11 @@ let ayah = {
     "Al Kafh": {
         "18": `It is We who relate to you, [O Muḥammad], their story in truth. Indeed, they were youths who believed in their Lord, and We increased them in guidance.`,
         "23, 24": `And never say of anything, "Indeed, I will do that tomorrow". Except [when adding], "If Allāh wills." And remember your Lord when you forget [it] and say, "Perhaps my Lord will guide me to what is nearer than this to right conduct."`
+    },
+    "Al Ankabut": {
+        "56": `O My servants who have believed, indeed My earth is spacious, so worship only Me.`,
+        "57": `Every soul will taste death. Then to Us will you be returned.`,
+        "58": `And those who have believed and done righteous deeds - We will surely assign to them of Paradise [elevated] chambers beneath which rivers flow, wherein they abide eternally. Excellent is the reward of the [righteous] workers`
     }
 }
 
