@@ -33,8 +33,8 @@ let ayah = {
     },
     "Ad Duha": {
         "4": `Indeed what is to come will be better for you than what has gone by.`,
-        "7": `And He found you lost and guided [you],`
-        "7": `And He found you lost and guided [you],`
+        "7": `And He found you lost and guided [you]`,
+        "8": `And He found you lost and guided [you],`
     },
     "At Taubah": {
         "4": `Do not grieve; indeed Allāh is with us.`,
