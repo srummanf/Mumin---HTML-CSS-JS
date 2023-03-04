@@ -47,6 +47,9 @@ let ayah = {
         "56": `O My servants who have believed, indeed My earth is spacious, so worship only Me.`,
         "57": `Every soul will taste death. Then to Us will you be returned.`,
         "58": `And those who have believed and done righteous deeds - We will surely assign to them of Paradise [elevated] chambers beneath which rivers flow, wherein they abide eternally. Excellent is the reward of the [righteous] workers`
+    },
+    "Al Hadid": {
+        "18": `Indeed, the men who practice charity and the women who practice charity and [they who] have loaned Allāh a goodly loan - it will be multiplied for them, and they will have a noble reward.`,
     }
 }
 
