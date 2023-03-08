@@ -59,7 +59,10 @@ let dua = {
         “Whenever a matter would distress him, the Prophet (ﷺ) would say: ‘O Living, O Self-Sustaining Sustainer! In Your Mercy do I seek relief (Yā Ḥayyu yā Qayyūm, bi-raḥmatika astaghīth).’” And with this chain, 
         that he said: “The Messenger of Allah (ﷺ) said: ‘Be constant with: “O Possessor of Majesty and Honor (Yā Dhal-Jalāli wal-Ikrām).’”`,
         "3460": `Abdullah bin Amr narrated that :
-        the Messenger of Allah (ﷺ) said: “there is not anyone upon the earth who says: ‘None has the right to be worshipped but Allah, and Allah is the Greatest, and there is no might nor power except by Allah, (Lā ilāha illallāh, wa Allāhu akbar, wa lā ḥawla wa lā quwwata illā billāh) except that his sins shall be pardoned, even if they were like the foam of the sea.”`
+        the Messenger of Allah (ﷺ) said: “there is not anyone upon the earth who says: ‘None has the right to be worshipped but Allah, and Allah is the Greatest, and there is no might nor power except by Allah, (Lā ilāha illallāh, wa Allāhu akbar, wa lā ḥawla wa lā quwwata illā billāh) except that his sins shall be pardoned, even if they were like the foam of the sea.”`,
+        "3173": `Narrated 'Umar bin Al-Khattab [may Allah be pleased with him]:
+        "When revelation came to the Messenger of Allah (ﷺ), one could hear what sounded like the drone of bees before his face. One day revelation was coming to him, he faced the Qiblah, raised his hands and said: 'O Allah! Increase us, do not diminish us. Favor us, do not withhold from us, make us pleased and be pleased with us.' He (ﷺ) said: 'Ten Ayah were revealed to me, whoever abides by them shall enter Paradise (and they are): 'Successful indeed are the believers...' until the completion of ten Ayat (23:1-10)."
+        (Another route) from AzZuhri with this chain.`,
     },
     "Sahih Bukhari": {
         "6325": `Narrated Abu Dhar:
