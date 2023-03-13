@@ -31,6 +31,10 @@ let ayah = {
         "156": `Who, when disaster strikes them, say, "Indeed we belong to Allāh, and indeed to Him we will return."`,
         "2": `This is the Book about which there is no doubt, a guidance for those conscious of Allāh`
     },
+    "Al-Anbya":{
+        "35":`Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned.`
+    }
+    ,
     "Ad Duha": {
         "4": `Indeed what is to come will be better for you than what has gone by.`,
         "7": `And He found you lost and guided [you]`,
