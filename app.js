@@ -23,6 +23,9 @@ let hadith = {
         The Prophet (ﷺ) said, "If somebody recited the last two Verses of Surat Al-Baqara at night, that will be sufficient for him."`,
 
     },
+    "Riyadh As-Salihin": {
+        "Book 16, Hadith 10 1474": `The Messenger of Allah (ﷺ) used to supplicate: "Allahumma inni a'udhu bika minal-ajzi wal- kasali, wal-jubni wal-harami, wal-bukhli, wa a'udhu bika min 'adhabil- qabri, wa a'udhu bika min fitnatil-mahya wal-mamat [O Allah! I seek refuge in You from helplessness (to do good), indolence, cowardice, senility, and miserliness; and I seek Your Protection against the torment of the grave and the trials of life and death]." Another narration adds: "wa dala'id-daini wa ghalabatir-rijal (And from the burden of indebtedness and the tyranny of men)."`,
+    }
 };
 
 let ayah = {
@@ -31,8 +34,8 @@ let ayah = {
         "156": `Who, when disaster strikes them, say, "Indeed we belong to Allāh, and indeed to Him we will return."`,
         "2": `This is the Book about which there is no doubt, a guidance for those conscious of Allāh`
     },
-    "Al-Anbya":{
-        "35":`Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned.`
+    "Al-Anbya": {
+        "35": `Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned.`
     }
     ,
     "Ad Duha": {
