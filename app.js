@@ -34,6 +34,9 @@ let ayah = {
         "156": `Who, when disaster strikes them, say, "Indeed we belong to Allāh, and indeed to Him we will return."`,
         "2": `This is the Book about which there is no doubt, a guidance for those conscious of Allāh`
     },
+    "Al Fath":{
+        "1":`(O Prophet), surely We have granted you a clear victory`
+    },
     "Al-Anbya": {
         "35": `Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned.`
     }
