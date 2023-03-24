@@ -31,7 +31,7 @@ let hadith = {
 let ayah = {
     "Al Baqarah": {
         "21": `O mankind, worship your Lord, who created you and those before you, that you may become righteous `,
-        "156": `Who, when disaster strikes them, say, "Indeed we belong to Allāh, and indeed to Him we will return."`,
+        "156": `Who, when disaster strikes them, say, "Indeed we belong to Allah, and indeed to Him we will return."`,
         "2": `This is the Book about which there is no doubt, a guidance for those conscious of Allāh`
     },
     "Al Fath":{
