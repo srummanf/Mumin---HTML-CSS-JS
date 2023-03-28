@@ -73,6 +73,7 @@ let dua = {
         "3173": `Narrated 'Umar bin Al-Khattab [may Allah be pleased with him]:
         "When revelation came to the Messenger of Allah (ﷺ), one could hear what sounded like the drone of bees before his face. One day revelation was coming to him, he faced the Qiblah, raised his hands and said: 'O Allah! Increase us, do not diminish us. Favor us, do not withhold from us, make us pleased and be pleased with us.' He (ﷺ) said: 'Ten Ayah were revealed to me, whoever abides by them shall enter Paradise (and they are): 'Successful indeed are the believers...' until the completion of ten Ayat (23:1-10)."
         (Another route) from AzZuhri with this chain.`,
+        "3490": `the Messenger of Allah (ﷺ) said: “It used to be from the supplication of Dawud that he would say: ‘O Allah, indeed, I ask You for Your love and the love of those who love You, and for the action that will cause me to attain Your love, O Allah, make Your love more beloved to me than myself, my family and cold water (Allāhumma innī as’aluka ḥubbaka wa ḥubba man yuḥibbuka wal-amalalladhī yuballighunī ḥubbak.Allāhummaj al ḥubbaka aḥabba ilaiyya min nafsī, wa ahlī wa minal-mā’il-bārid) He said: “And when the Prophet (ﷺ) would mention Dawud, he would narrate about him, saying: “He was the best in worship out of all men.”`,
     },
     "Sahih Bukhari": {
         "6325": `Narrated Abu Dhar:
