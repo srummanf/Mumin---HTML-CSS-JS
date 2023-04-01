@@ -34,8 +34,8 @@ let ayah = {
         "156": `Who, when disaster strikes them, say, "Indeed we belong to Allah, and indeed to Him we will return."`,
         "2": `This is the Book about which there is no doubt, a guidance for those conscious of Allāh`
     },
-    "Al Fath":{
-        "1":`(O Prophet), surely We have granted you a clear victory`
+    "Al Fath": {
+        "1": `(O Prophet), surely We have granted you a clear victory`
     },
     "Al-Anbya": {
         "35": `Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned.`
@@ -48,6 +48,9 @@ let ayah = {
     },
     "At Taubah": {
         "4": `Do not grieve; indeed Allāh is with us.`,
+    },
+    "Al-Isra":{
+        "36": `And do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart - about all those [one] will be questioned.`
     },
     "Al Kafh": {
         "18": `It is We who relate to you, [O Muḥammad], their story in truth. Indeed, they were youths who believed in their Lord, and We increased them in guidance.`,
