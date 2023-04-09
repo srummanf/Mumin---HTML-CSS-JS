@@ -121,7 +121,7 @@ function kuwaiticalendar(adjust) {
 
     }
 
-    //      y = today.getDate();
+    //       y = today.getDate();
 
     var sunset = document.getElementById("sunset").innerHTML;
 
