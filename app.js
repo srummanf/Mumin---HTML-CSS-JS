@@ -49,7 +49,7 @@ let ayah = {
     "At Taubah": {
         "4": `Do not grieve; indeed Allāh is with us.`,
     },
-    "Al-Isra":{
+    "Al-Isra": {
         "36": `And do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart - about all those [one] will be questioned.`
     },
     "Al Kafh": {
@@ -77,6 +77,9 @@ let dua = {
         "When revelation came to the Messenger of Allah (ﷺ), one could hear what sounded like the drone of bees before his face. One day revelation was coming to him, he faced the Qiblah, raised his hands and said: 'O Allah! Increase us, do not diminish us. Favor us, do not withhold from us, make us pleased and be pleased with us.' He (ﷺ) said: 'Ten Ayah were revealed to me, whoever abides by them shall enter Paradise (and they are): 'Successful indeed are the believers...' until the completion of ten Ayat (23:1-10)."
         (Another route) from AzZuhri with this chain.`,
         "3490": `the Messenger of Allah (ﷺ) said: “It used to be from the supplication of Dawud that he would say: ‘O Allah, indeed, I ask You for Your love and the love of those who love You, and for the action that will cause me to attain Your love, O Allah, make Your love more beloved to me than myself, my family and cold water (Allāhumma innī as’aluka ḥubbaka wa ḥubba man yuḥibbuka wal-amalalladhī yuballighunī ḥubbak.Allāhummaj al ḥubbaka aḥabba ilaiyya min nafsī, wa ahlī wa minal-mā’il-bārid) He said: “And when the Prophet (ﷺ) would mention Dawud, he would narrate about him, saying: “He was the best in worship out of all men.”`,
+        "1071": `Abu Hurairah narrated that:
+The Messenger of Allah said: "When the deceased - or he said when one of you - is buried, two angels, black and blue (eyed_ come to him. One of them is called Al-Munkar, and the other An-Nakir. They say: 'What did you used to say about this man?' So he says what he was saying (before death) 'He is Allah's slave and His Messenger. I testify that none has the right to be worshipped but Allah and that Muhammad is His slave and His Messenger.' So they say: 'We knew that you would say this.' Then his grave is expanded to seventy by seventy cubits, then it is illuminated for him. Then it is said to him: 'Sleep.' So he said: 'Can I return to my family to inform them?' They say: 'Sleep as a newlywed, whom none awakens but the dearest of his family.' Until Allah resurrects him from his resting place.""If he was a hypocrite he would say: 'I heard people saying something, so I said the same; I do not know.' So they said: 'We knew you would say that.' So the earth is told: 'Constrict him.' So it constricts around him, squeezing his ribs together. He continues being punished like that until Allah resurrects him from his resting place."`,
+
     },
     "Sahih Bukhari": {
         "6325": `Narrated Abu Dhar:
