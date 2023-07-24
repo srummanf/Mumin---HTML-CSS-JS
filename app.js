@@ -202,7 +202,7 @@ function kuwaiticalendar(adjust) {
     myRes[4] = wd - 1; //weekday number
     myRes[5] = id; //islamic date
     myRes[6] = im - 1; //islamic month
-    myRes[7] = iy; //islamic year
+    myRes[7] = iy; //islamic     year
 
     return myRes;
 }
